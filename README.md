@@ -1,6 +1,6 @@
 # TreeleafAssignment
 
-Task 1 of bank loan prediction is in the folder 'Bank Loan'
+Task 1 of bank loan prediction is in the folder 'Bank Loan'. the trained model and 'Summary and Analysis' in PDF format is also present here
 Tast 2a and 2b of rectable numbering and alignment are in the folder 'Rectangle openCV'
 
 The allocated 2 days for the completion of the assignment was not enough. I could have made the EDA for task 1 a lot better. 
